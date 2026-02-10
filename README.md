@@ -31,15 +31,6 @@ Software Engineer specializing in **Microservices architecture**, **High-load sy
 
 ---
 
-### 📊 GitHub Activity
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=javaAndScriptDeveloper&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=javaAndScriptDeveloper&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ### 📫 Connect with me
 <div align="center">
     <a href="https://www.linkedin.com/in/kyryl-feshchenko" target="_blank">
