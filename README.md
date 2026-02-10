@@ -1,20 +1,38 @@
+# Hi there, I'm javaAndScriptDeveloper 👋
+
+### 🛠️ Core Tech Stack & Infrastructure
 <div align="center">
-    <a href="https://github.com/javaAndScriptDeveloper/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=javaAndScriptDeveloper&show_icons=true&hide_border=true&hide=prs&title_color=ed9004&icon_color=ed9004&bg_color=00000000&rank_icon=github&theme=dark" alt="javaAndScriptDeveloper's GitHub stats">
-    </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javaAndScriptDeveloper&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&icon_color=ed9004&theme=dark" alt="Top Langs">
-    <img src="https://img.shields.io/github/followers/javaAndScriptDeveloper?label=Followers&style=social" alt="Followers">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-## 🚀 My Most Commonly Used Technologies
 <div align="center">
-    <img src="https://img.shields.io/badge/Java-Java-ed9004?logo=openjdk&logoColor=white" alt="Java Badge">
-    <img src="https://img.shields.io/badge/Spring-Spring-ed9004?logo=spring&logoColor=white" alt="Spring Badge">
-    <img src="https://img.shields.io/badge/PostgreSQL-PostgreSQL-ed9004?logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
-    <img src="https://img.shields.io/badge/Docker-Docker-ed9004?logo=docker&logoColor=white" alt="Docker Badge">
-    <img src="https://img.shields.io/badge/Kubernetes-K8s-ed9004?logo=kubernetes&logoColor=white" alt="Kubernetes Badge">
-    <img src="https://img.shields.io/badge/Apache Kafka-Kafka-ed9004?logo=apachekafka&logoColor=white" alt="Kafka Badge">
-    <img src="https://img.shields.io/badge/Linux-Linux-ed9004?logo=linux&logoColor=white" alt="Linux Badge">
-    <img src="https://img.shields.io/badge/Python-Python-ed9004?logo=python&logoColor=white" alt="Python Badge">
-    <img src="https://img.shields.io/badge/ELK Stack-Grafana%20%7C%20Prometheus%20%7C%20OpenSearch-ed9004?logo=elasticstack&logoColor=white" alt="ELK Stack Badge">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 </div>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+    <a href="https://github.com/javaAndScriptDeveloper/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=javaAndScriptDeveloper&show_icons=true&hide_border=true&hide=prs&title_color=ed9004&icon_color=ed9004&bg_color=00000000&rank_icon=github&theme=dark" alt="Stats">
+    </a>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javaAndScriptDeveloper&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&theme=dark" alt="Top Langs">
+</div>
+
+---
+
+### 📫 Connect with me
+<div align="left">
+    <img src="https://img.shields.io/github/followers/javaAndScriptDeveloper?label=Followers&style=social" />
+</div>
+
+*"Simplicity is the soul of efficiency."*
