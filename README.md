@@ -21,18 +21,20 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-    <a href="https://github.com/javaAndScriptDeveloper/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=javaAndScriptDeveloper&show_icons=true&hide_border=true&hide=prs&title_color=ed9004&icon_color=ed9004&bg_color=00000000&rank_icon=github&theme=dark" alt="Stats">
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=javaAndScriptDeveloper&show_icons=true&title_color=ed9004&icon_color=ed9004&text_color=ffffff&bg_color=0d1117&hide_border=true&theme=dark" alt="General Stats" />
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javaAndScriptDeveloper&layout=compact&title_color=ed9004&hide_border=true&icon_color=ed9004&bg_color=00000000&theme=dark" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javaAndScriptDeveloper&layout=compact&title_color=ed9004&icon_color=ed9004&text_color=ffffff&bg_color=0d1117&hide_border=true&theme=dark" alt="Top Languages" />
 </div>
 
 ---
 
 ### 📫 Connect with me
-<div align="left">
-    <img src="https://img.shields.io/github/followers/javaAndScriptDeveloper?label=Followers&style=social" />
+<div align="center">
+    <a href="https://github.com/javaAndScriptDeveloper">
+        <img src="https://img.shields.io/github/followers/javaAndScriptDeveloper?label=Followers&style=social" />
+    </a>
 </div>
 
-*"Simplicity is the soul of efficiency."*
+<p align="center">
+  <i>"Simplicity is the soul of efficiency."</i>
+</p>
